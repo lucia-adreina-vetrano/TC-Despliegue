@@ -1,14 +1,3 @@
-"""
-Script de entrenamiento del modelo.
-
-Entrena un clasificador simple sobre el dataset Iris (abierto, incluido en
-scikit-learn) y guarda el modelo entrenado en model/model.pkl.
-
-Uso:
-    python model/train_model.py
-
-Rol sugerido: Persona A (Modelo / ML)
-"""
 
 import joblib
 from pathlib import Path
